@@ -1,4 +1,3 @@
-# Simple-web
 SOL 2018-2019
 
 link to site: https://yunmo-research.github.io/SOL2018-2019/
