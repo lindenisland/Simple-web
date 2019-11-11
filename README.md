@@ -2,7 +2,7 @@
 simple website
 
 
-link to site: https://lindenisland.github.io/Simple-web/
+link to site: https://yunmo-research.github.io/SOL2018-2019/
 
 Explore this data story
 
