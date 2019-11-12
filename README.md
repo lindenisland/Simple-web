@@ -1,5 +1,5 @@
 
-link to site: <a href="https://yunmo-research.github.io/SOL2018-2019/" target="_blank">https://yunmo-research.github.io/SOL2018-2019/!</a>
+link to site: <a href="https://yunmo-research.github.io/SOL2018-2019/" target="_blank">https://yunmo-research.github.io/SOL2018-2019/</a>
 
 <iframe src="https://public.tableau.com/shared/BJGYG2TSZ?:display_count=y&:origin=viz_share_link
 amp;&:display_count=y&publish=yes&:origin=viz_share_link?:embed=y&amp;:display_count=yes&amp;publish=yes&amp;amp;:showVizHome=no" width="1190" height="750" scrolling="yes" class="iframe-class" frameborder="0"></iframe>
